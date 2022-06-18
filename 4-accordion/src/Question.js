@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AiFillAccountBook, AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai'
+import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai'
 
 const Question = ({ title, info }) => {
 
